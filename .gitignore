@@ -3,3 +3,5 @@ venv
 *.pdf
 *.log
 home_automation_agent
+.DS_Store
+sample_agent_deploy/
